@@ -14,4 +14,4 @@ This project shows how tools like ChatGPT, Copilot, and Midjourney can assist in
 - Midjourney/DALL·E
 
 ---
-Made by [Your Name](https://your-portfolio.com)
+Made by Shakibul Hasan(https://shakibulhasanimad.com/)
